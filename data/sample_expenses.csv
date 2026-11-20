@@ -1,0 +1,251 @@
+Date,Category,Amount,Description,Department
+2026-01-04,Cloud Infrastructure,"$14,250.00",Amazon Web Services Hosting,Engineering
+2026-01-05,Software & SaaS,"$1,200.00",GitHub Enterprise 50 Seats,Engineering
+2026-01-08,Travel & Logistics,840.50,Delta Airlines Flight SFO-JFK,Sales
+2026-01-12,Professional Services,"$4,500.00",Legal Counsel Quarterly Retainer,Executive
+2026-01-15,Office Equipment,349.99,Ergonomic Chairs and Monitors,Operations
+2026-01-16,Cloud Infrastructure,"$610.59",Datadog APM Host Monitoring,Engineering
+2026-01-16,Cloud Infrastructure,"$573.73",Azure Virtual Desktop Infrastructure,Operations
+2026-01-16,Software & SaaS,"$1,250.03",Slack Enterprise Grid Subscription,Operations
+2026-01-17,Cloud Infrastructure,681.32,AWS S3 Storage Standard Tier,Engineering
+2026-01-17,Software & SaaS,477.57,Slack Enterprise Grid Subscription,Operations
+2026-01-17,Travel & Logistics,"$1,216.61",Marriott Marquis Hotel Stay,Sales
+2026-01-18,Cloud Infrastructure,"$585.82",GCP Cloud Storage Coldline,Engineering
+2026-01-18,Professional Services,533.26,Cooley LLP Intellectual Property Retainer,Legal
+2026-01-18,Office Equipment,1072.59,Apple Store MacBook Pro 16,Engineering
+2026-01-19,Cloud Infrastructure,459.60,AWS S3 Storage Standard Tier,Engineering
+2026-01-19,Cloud Infrastructure,"$523.50",GCP Cloud Storage Coldline,Engineering
+2026-01-19,Software & SaaS,"$680.09",Slack Technologies Seat Adjustment,Operations
+2026-01-19,Software & SaaS,"$347.15",Figma Design Organization Plan,Design
+2026-01-19,Office Equipment,584.31,Herman Miller Ergonomic Desks,Operations
+2026-01-19,Office Equipment,"$1,084.71",Ergonomic Chairs and Monitors,Operations
+2026-01-20,Cloud Infrastructure,397.04,AWS RDS Aurora Multi-AZ,Engineering
+2026-01-20,Cloud Infrastructure,360.09,Datadog APM Host Monitoring,Engineering
+2026-01-20,Software & SaaS,"$706.09",Atlassian Confluence Standard,Operations
+2026-01-20,Software & SaaS,1581.59,Atlassian Confluence Standard,Operations
+2026-01-20,Travel & Logistics,227.90,Marriott Downtown Conference Lodging,Executive
+2026-01-20,Office Equipment,"$1,078.23",Ergonomic Chairs and Monitors,Operations
+2026-01-20,Software & SaaS," $3,100.00 ",Figma Enterprise Design System,Design
+2026-01-21,Cloud Infrastructure,510.53,Azure Active Directory Premium,Operations
+2026-01-21,Travel & Logistics,1136.15,Marriott Downtown Conference Lodging,Executive
+2026-01-21,Office Equipment,"$1,172.77",Ergonomic Chairs and Monitors,Operations
+2026-01-22,Cloud Infrastructure,"$1,058.49",Datadog APM Host Monitoring,Engineering
+2026-01-23,Cloud Infrastructure,"$595.07",Amazon Web Services Hosting,Engineering
+2026-01-23,Cloud Infrastructure,"$609.66",Amazon Web Services Hosting,Engineering
+2026-01-23,Professional Services,"$307.16",Tax Strategy Advisory Retainer,Finance
+2026-01-24,Cloud Infrastructure,924.46,Azure Virtual Desktop Infrastructure,Operations
+2026-01-24,Professional Services,"$423.46",Deloitte Advisory Consulting,Executive
+2026-01-24,Professional Services,"$296.98",Cooley LLP Corporate Governance,Legal
+2026-01-24,Office Equipment,394.75,Apple Store iPad Pro Display,Engineering
+2026-01-25,Cloud Infrastructure,"$817.44",Azure Virtual Desktop Infrastructure,Operations
+2026-01-25,Software & SaaS,"$624.21",GitHub Enterprise Seats,Engineering
+2026-01-25,Software & SaaS,"$271.64",Notion Team Workspace,Product
+2026-01-26,Cloud Infrastructure,895.32,Azure Active Directory Premium,Operations
+2026-01-26,Cloud Infrastructure,"$418.58",AWS S3 Storage Standard Tier,Engineering
+2026-01-26,Software & SaaS,1105.61,GitHub Copilot Business Seats,Engineering
+2026-01-27,Cloud Infrastructure,"$934.12",GCP Cloud Storage Coldline,Engineering
+2026-01-27,Software & SaaS,305.40,GitHub Copilot Business Seats,Engineering
+2026-01-27,Software & SaaS,"$1,449.08",Notion Team Workspace,Product
+2026-01-27,Software & SaaS,488.67,GitHub Copilot Business Seats,Engineering
+2026-01-27,Travel & Logistics,924.03,Uber For Business Team Logistics,Operations
+2026-01-27,Travel & Logistics,"$172.40",United Airlines Client Onsite Travel,Sales
+2026-01-27,Travel & Logistics,"$806.52",Uber Technologies Airport Rides,Sales
+2026-01-27,Travel & Logistics,"$248.05",Marriott Marquis Hotel Stay,Sales
+2026-01-27,Office Equipment,"$262.65",Apple Store iPad Pro Display,Engineering
+2026-01-28,Cloud Infrastructure,"$433.21",Amazon Web Services Hosting,Engineering
+2026-01-28,Cloud Infrastructure,1154.79,Datadog APM Host Monitoring,Engineering
+2026-01-28,Cloud Infrastructure,"$721.42",Azure Active Directory Premium,Operations
+2026-01-28,Cloud Infrastructure,767.44,AWS S3 Storage Standard Tier,Engineering
+2026-01-28,Software & SaaS,"$211.92",PagerDuty Incident Response,Engineering
+2026-01-28,Software & SaaS,"$437.05",Notion Team Workspace,Product
+2026-01-28,Software & SaaS,"$831.67",Figma Design Organization Plan,Design
+2026-01-28,Travel & Logistics,"$185.83",Marriott Downtown Conference Lodging,Executive
+2026-01-28,Travel & Logistics,"-$450.00",Delta Air Lines Flight Cancellation Refund,Sales
+2026-01-29,Software & SaaS,235.84,Jira Software Premium,Engineering
+2026-01-29,Software & SaaS,"$698.33",GitHub Copilot Business Seats,Engineering
+2026-01-29,Software & SaaS,1255.30,GitHub Enterprise Seats,Engineering
+2026-01-29,Software & SaaS,"$316.10",Jira Software Premium,Engineering
+2026-01-29,Software & SaaS,"$391.92",Figma Enterprise Design System,Design
+2026-01-29,Professional Services,"$243.26",Legal Counsel Quarterly Retainer,Executive
+2026-01-29,Travel & Logistics,1343.45,Delta Air Lines SFO-SEA Roundtrip,Sales
+2026-01-30,Software & SaaS,813.94,Slack Enterprise Grid Subscription,Operations
+2026-01-30,Software & SaaS,263.29,Figma Design Organization Plan,Design
+2026-01-30,Software & SaaS,"$251.77",Jira Software Premium,Engineering
+2026-01-30,Software & SaaS,591.02,Notion Team Workspace,Product
+2026-01-30,Professional Services,482.24,Cooley LLP Corporate Governance,Legal
+2026-01-31,Cloud Infrastructure,"$316.87",Azure Active Directory Premium,Operations
+2026-01-31,Cloud Infrastructure,"$550.91",Azure Virtual Desktop Infrastructure,Operations
+2026-01-31,Software & SaaS,1150.72,Figma Enterprise Design System,Design
+2026-01-31,Software & SaaS,"$119.82",GitHub Enterprise Seats,Engineering
+2026-01-31,Software & SaaS,"$1,044.18",PagerDuty Incident Response,Engineering
+2026-01-31,Professional Services,"$1,013.64",Tax Strategy Advisory Retainer,Finance
+2026-01-31,Travel & Logistics,1247.12,United Airlines Chicago Board Meeting,Executive
+2026-01-31,Travel & Logistics,"$906.94",Uber Technologies Airport Rides,Sales
+2026-02-01,Cloud Infrastructure,848.16,Amazon Web Services Hosting,Engineering
+2026-02-01,Cloud Infrastructure,500.64,AWS EC2 On-Demand Compute,Engineering
+2026-02-01,Software & SaaS,"$413.63",Figma Enterprise Design System,Design
+2026-02-01,Travel & Logistics,"$221.90",Delta Air Lines SFO-SEA Roundtrip,Sales
+2026-02-02,Cloud Infrastructure,397.07,AWS EC2 On-Demand Compute,Engineering
+2026-02-02,Software & SaaS,"$1,442.71",Figma Design Organization Plan,Design
+2026-02-02,Office Equipment,"$702.15",Herman Miller Ergonomic Desks,Operations
+2026-02-03,Software & SaaS,345.16,Jira Software Premium,Engineering
+2026-02-03,Software & SaaS,"$246.87",GitHub Enterprise Seats,Engineering
+2026-02-04,Cloud Infrastructure,374.26,Azure Active Directory Premium,Operations
+2026-02-04,Cloud Infrastructure,"$626.02",Datadog Infrastructure Monitoring,Engineering
+2026-02-04,Cloud Infrastructure,"$680.36",GCP Kubernetes Engine,Engineering
+2026-02-04,Software & SaaS,"$960.66",Slack Enterprise Grid Subscription,Operations
+2026-02-05,Cloud Infrastructure,1077.70,AWS RDS Aurora Multi-AZ,Engineering
+2026-02-05,Cloud Infrastructure,1179.38,GCP Cloud Storage Coldline,Engineering
+2026-02-05,Software & SaaS,758.76,Atlassian Confluence Standard,Operations
+2026-02-05,Software & SaaS,1194.02,GitHub Enterprise Seats,Engineering
+2026-02-05,Professional Services,308.11,Fractional CFO Strategic Retainer,Executive
+2026-02-06,Software & SaaS,840.41,Jira Software Premium,Engineering
+2026-02-07,Cloud Infrastructure,830.98,Datadog Infrastructure Monitoring,Engineering
+2026-02-07,Cloud Infrastructure,377.15,Datadog APM Host Monitoring,Engineering
+2026-02-07,Office Equipment,"$659.18",CDW Server Rack Accessories,Operations
+2026-02-08,Software & SaaS,"$1,230.54",Figma Design Organization Plan,Design
+2026-02-08,Software & SaaS,1138.63,GitHub Enterprise Seats,Engineering
+2026-02-09,Cloud Infrastructure,1293.64,Azure Virtual Desktop Infrastructure,Operations
+2026-02-09,Professional Services,804.16,Tax Strategy Advisory Retainer,Finance
+2026-02-10,Cloud Infrastructure,"$543.09",AWS S3 Storage Standard Tier,Engineering
+2026-02-10,Software & SaaS,"$118.37",Jira Software Premium,Engineering
+2026-02-11,Software & SaaS,1083.01,Jira Software Premium,Engineering
+2026-02-11,Professional Services,"$219.13",Cooley LLP Intellectual Property Retainer,Legal
+2026-02-11,Travel & Logistics,"$637.23",Marriott Marquis Hotel Stay,Sales
+2026-02-11,Travel & Logistics,"$287.32",Delta Air Lines Flight SFO-JFK,Sales
+2026-02-12,Software & SaaS,"$121.66",Slack Enterprise Grid Subscription,Operations
+2026-02-12,Software & SaaS,"(125.00)",Slack Technologies Seat Adjustment Credit,Operations
+2026-02-13,Software & SaaS,"$640.31",GitHub Copilot Business Seats,Engineering
+2026-02-14,Cloud Infrastructure,"$385.76",GCP Kubernetes Engine,Engineering
+2026-02-14,Software & SaaS,"$469.83",Atlassian Confluence Standard,Operations
+2026-02-14,Software & SaaS,"$1,084.04",Slack Technologies Seat Adjustment,Operations
+2026-02-14,Travel & Logistics,521.09,Uber For Business Team Logistics,Operations
+02/14/2026,Office Equipment,540.00,Apple Store iPad Pro Display,Engineering
+2026-02-15,Professional Services,"$506.03",Legal Counsel Quarterly Retainer,Executive
+2026-02-15,Office Equipment,"$1,067.94",Herman Miller Aeron Chairs,Operations
+2026-02-16,Cloud Infrastructure,435.92,AWS RDS Aurora Multi-AZ,Engineering
+2026-02-16,Cloud Infrastructure,"$683.07",Datadog APM Host Monitoring,Engineering
+2026-02-16,Software & SaaS,"$422.75",Atlassian Confluence Standard,Operations
+2026-02-16,Software & SaaS,292.44,Slack Enterprise Grid Subscription,Operations
+2026-02-17,Professional Services,509.37,Fractional CFO Strategic Retainer,Executive
+2026-02-17,Travel & Logistics,"$1,247.16",United Airlines Chicago Board Meeting,Executive
+2026-02-17,Office Equipment,"$1,058.07",Herman Miller Ergonomic Desks,Operations
+2026-02-18,Cloud Infrastructure,"$880.47",Datadog Infrastructure Monitoring,Engineering
+2026-02-18,Software & SaaS,626.24,Atlassian Confluence Standard,Operations
+2026-02-18,Office Equipment,"$1,063.96",CDW Logistics Network Switch,Engineering
+2026-02-18,Cloud Infrastructure,"$11,500.00",GCP BigQuery Annual Reservation,Engineering
+2026-02-19,Office Equipment,"$470.95",CDW Server Rack Accessories,Operations
+2026-02-20,Cloud Infrastructure,"$575.75",Amazon Web Services Hosting,Engineering
+2026-02-20,Travel & Logistics,674.99,United Airlines Chicago Board Meeting,Executive
+2026-02-21,Cloud Infrastructure,973.63,Datadog Infrastructure Monitoring,Engineering
+2026-02-21,Cloud Infrastructure,"$533.25",Amazon Web Services Hosting,Engineering
+2026-02-21,Travel & Logistics,"$201.92",Delta Air Lines SFO-SEA Roundtrip,Sales
+2026-02-22,Cloud Infrastructure,346.66,AWS EC2 On-Demand Compute,Engineering
+2026-02-22,cloud infrastructure,890.00,Datadog APM Host Monitoring,Engineering
+2026-02-23,Software & SaaS,163.56,Slack Technologies Seat Adjustment,Operations
+2026-02-23,Software & SaaS,153.43,GitHub Copilot Business Seats,Engineering
+2026-02-23,Software & SaaS,"$371.74",GitHub Enterprise Seats,Engineering
+2026-02-23,Office Equipment,"$237.75",Herman Miller Aeron Chairs,Operations
+2026-02-24,Software & SaaS,250.34,Atlassian Confluence Standard,Operations
+2026-02-24,Travel & Logistics,"$594.83",Delta Air Lines Flight SFO-JFK,Sales
+2026-02-24,Travel & Logistics,"$679.26",Marriott Marquis Hotel Stay,Sales
+2026-02-25,Travel & Logistics,"$807.41",Uber For Business Team Logistics,Operations
+2026-02-26,Cloud Infrastructure,"$467.04",Amazon Web Services Hosting,Engineering
+2026-02-26,Professional Services,1361.09,Cooley LLP Intellectual Property Retainer,Legal
+2026-02-27,Software & SaaS,"$175.68",Figma Enterprise Design System,Design
+2026-02-27,Travel & Logistics,"$1,362.37",United Airlines Chicago Board Meeting,Executive
+2026-02-27,Travel & Logistics,"$864.52",United Airlines Chicago Board Meeting,Executive
+2026-02-28,Software & SaaS,"$1,481.06",GitHub Enterprise Seats,Engineering
+2026-02-28,Software & SaaS,"$119.94",Slack Enterprise Grid Subscription,Operations
+2026-02-28,Software & SaaS,"$1,479.21",Slack Enterprise Grid Subscription,Operations
+2026-02-28,Professional Services,292.11,Deloitte Advisory Consulting,Executive
+2026-02-28,Professional Services,"$8,200.00",Cooley LLP Regulatory Filings,Legal
+2026-03-01,Software & SaaS,"$276.43",PagerDuty Incident Response,Engineering
+2026-03-02,Software & SaaS,921.12,PagerDuty Incident Response,Engineering
+2026-03-02,Software & SaaS,"$835.40",Figma Design Organization Plan,Design
+2026-03-02,Software & SaaS,183.33,Notion Team Workspace,Product
+2026-03-02,Office Equipment,"$1,069.93",CDW Logistics Network Switch,Engineering
+2026-03-03,Cloud Infrastructure,"$1,069.83",Datadog Infrastructure Monitoring,Engineering
+2026-03-03,Software & SaaS,303.24,PagerDuty Incident Response,Engineering
+2026-03-04,Cloud Infrastructure,"$305.92",Azure Virtual Desktop Infrastructure,Operations
+2026-03-04,Office Equipment,994.67,CDW Logistics Network Switch,Engineering
+2026-03-05,Professional Services,"$3,800.00",Comprehensive Multi-Cloud Security Assessment and Pen Testing Retainer Phase 1,Engineering
+2026-03-06,Software & SaaS,"$809.96",Slack Enterprise Grid Subscription,Operations
+2026-03-06,Software & SaaS,159.48,PagerDuty Incident Response,Engineering
+2026-03-06,Travel & Logistics,495.29,Delta Air Lines Flight SFO-JFK,Sales
+2026-03-06,Travel & Logistics,753.76,Uber Technologies Airport Rides,Sales
+2026-03-06,Office Equipment,"$503.66",Apple Store iPad Pro Display,Engineering
+2026-03-07,Cloud Infrastructure,"$1,205.70",Azure Virtual Desktop Infrastructure,Operations
+2026-03-09,Software & SaaS,"$420.49",GitHub Copilot Business Seats,Engineering
+2026-03-10,Cloud Infrastructure,305.90,GCP Cloud Storage Coldline,Engineering
+2026-03-10,Professional Services,"$784.98",Cooley LLP Corporate Governance,Legal
+2026-03-11,Cloud Infrastructure,"$705.08",Azure Active Directory Premium,Operations
+2026-03-12,Software & SaaS,"$314.91",Atlassian Confluence Standard,Operations
+2026-03-12,Office Equipment,208.75,Herman Miller Ergonomic Desks,Operations
+2026-03-12,Office Equipment,518.73,Ergonomic Chairs and Monitors,Operations
+2026-03-12,Cloud Infrastructure,"$14,850.00",Amazon Web Services Q1 Compute,Engineering
+2026-03-13,Cloud Infrastructure,"$351.84",Azure Virtual Desktop Infrastructure,Operations
+2026-03-13,Cloud Infrastructure,"$321.71",AWS EC2 On-Demand Compute,Engineering
+2026-03-13,Cloud Infrastructure,"$1,399.27",Datadog APM Host Monitoring,Engineering
+2026-03-13,Software & SaaS,1239.26,GitHub Enterprise Seats,Engineering
+2026-03-13,Professional Services,"$509.69",Deloitte Advisory Consulting,Executive
+2026-03-14,Cloud Infrastructure,627.24,Azure Virtual Desktop Infrastructure,Operations
+2026-03-15,Cloud Infrastructure,"$673.04",AWS S3 Storage Standard Tier,Engineering
+2026-03-15,Cloud Infrastructure,"$723.70",AWS RDS Aurora Multi-AZ,Engineering
+2026-03-15,Software & SaaS,882.01,PagerDuty Incident Response,Engineering
+2026-03-15,Travel & Logistics,"$366.25",Marriott Marquis Hotel Stay,Sales
+2026-03-16,Cloud Infrastructure,"$363.97",GCP Cloud Storage Coldline,Engineering
+2026-03-16,Software & SaaS,696.76,Atlassian Confluence Standard,Operations
+2026-03-16,Professional Services,"$611.00",Deloitte Advisory Consulting,Executive
+2026-03-16,Professional Services,"$260.00",Fractional CFO Strategic Retainer,Executive
+2026-03-17,Cloud Infrastructure,718.61,GCP Cloud Storage Coldline,Engineering
+2026-03-17,Travel & Logistics,"$402.59",Marriott Marquis Hotel Stay,Sales
+2026-03-17,Office Equipment,"$174.09",Apple Store iPad Pro Display,Engineering
+2026-03-18,Cloud Infrastructure,"$732.19",AWS RDS Aurora Multi-AZ,Engineering
+2026-03-18,Software & SaaS,"$259.09",Figma Design Organization Plan,Design
+2026-03-18,SOFTWARE & SAAS,450.00,Notion Team Workspace,Product
+2026-03-19,Cloud Infrastructure,322.29,Amazon Web Services Hosting,Engineering
+2026-03-19,Travel & Logistics,779.33,Uber Technologies Airport Rides,Sales
+2026-03-19,Travel & Logistics,"$232.74",Delta Air Lines SFO-SEA Roundtrip,Sales
+2026-03-19,Office Equipment,"$934.42",Apple Store Display Hardware,Design
+2026-03-20,Cloud Infrastructure,"$486.78",AWS RDS Aurora Multi-AZ,Engineering
+2026-03-21,Software & SaaS,325.95,Notion Team Workspace,Product
+2026-03-21,Software & SaaS,"$148.92",Jira Software Premium,Engineering
+2026-03-21,Software & SaaS,"$956.66",GitHub Enterprise Seats,Engineering
+2026-03-21,Software & SaaS,"$339.59",GitHub Enterprise Seats,Engineering
+2026-03-21,Professional Services,"$551.58",Cooley LLP Intellectual Property Retainer,Legal
+2026-03-21,Travel & Logistics,"$1,121.53",Uber For Business Team Logistics,Operations
+2026-03-21,Travel & Logistics,"$799.09",United Airlines Chicago Board Meeting,Executive
+2026-03-22,Cloud Infrastructure,348.10,AWS EC2 On-Demand Compute,Engineering
+2026-03-22,Cloud Infrastructure,541.49,Azure Virtual Desktop Infrastructure,Operations
+2026-03-22,Cloud Infrastructure,"$490.53",Amazon Web Services Hosting,Engineering
+2026-03-22,Cloud Infrastructure,"$310.36",AWS S3 Storage Standard Tier,Engineering
+2026-03-22,Software & SaaS,658.09,Figma Design Organization Plan,Design
+2026-03-22,Software & SaaS,"$492.18",Figma Enterprise Design System,Design
+2026-03-22,Software & SaaS,"$518.70",GitHub Enterprise Seats,Engineering
+2026-03-22,Travel & Logistics,532.81,Marriott Marquis Hotel Stay,Sales
+2026-03-23,Cloud Infrastructure,947.43,Azure Virtual Desktop Infrastructure,Operations
+2026-03-23,Software & SaaS,"$212.70",Notion Team Workspace,Product
+2026-03-23,Software & SaaS,"$479.53",Atlassian Confluence Standard,Operations
+2026-03-23,Travel & Logistics,440.61,Uber Technologies Airport Rides,Sales
+2026-03-24,Software & SaaS,"$318.56",GitHub Enterprise Seats,Engineering
+2026-03-24,Professional Services,"$7,500.00",Deloitte Systems Integration,Operations
+2026-03-25,Professional Services,706.17,Fractional CFO Strategic Retainer,Executive
+2026-03-25,Professional Services,"$276.58",Deloitte Technical Audit Services,Operations
+2026-03-25,Travel & Logistics,"$1,314.87",Marriott Marquis Hotel Stay,Sales
+2026-03-26,Cloud Infrastructure,540.08,Datadog Infrastructure Monitoring,Engineering
+2026-03-26,Travel & Logistics,"$673.24",Marriott Marquis Hotel Stay,Sales
+2026-03-26,Travel & Logistics,"$182.39",Marriott Downtown Conference Lodging,Executive
+2026-03-26,Office Equipment,252.18,Herman Miller Ergonomic Desks,Operations
+2026-03-27,Cloud Infrastructure,370.95,AWS S3 Storage Standard Tier,Engineering
+2026-03-27,Software & SaaS,"$386.49",GitHub Copilot Business Seats,Engineering
+2026-03-27,Software & SaaS,"$314.88",Atlassian Confluence Standard,Operations
+2026-03-28,Software & SaaS,172.52,Jira Software Premium,Engineering
+2026-03-28,Software & SaaS,"$1,173.16",Atlassian Confluence Standard,Operations
+2026-03-28,Software & SaaS,286.21,Slack Technologies Seat Adjustment,Operations
+2026-03-29,Cloud Infrastructure,356.45,Amazon Web Services Hosting,Engineering
+2026-03-29,Cloud Infrastructure,"$411.04",Datadog APM Host Monitoring,Engineering
+2026-03-29,Software & SaaS,764.38,Slack Enterprise Grid Subscription,Operations
+2026-03-30,Cloud Infrastructure,1006.76,GCP Cloud Storage Coldline,Engineering
+2026-03-30,Cloud Infrastructure,413.74,Datadog APM Host Monitoring,Engineering
+2026-03-31,Office Equipment,"$529.07",Ergonomic Chairs and Monitors,Operations

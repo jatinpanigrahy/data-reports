@@ -1,0 +1,25 @@
+# Documentation
+docs/
+
+# Python environment and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated outputs
+output/
+*.pdf
+*.png
+
+# Operating system files
+.DS_Store
+Thumbs.db
