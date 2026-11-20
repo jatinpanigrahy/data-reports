@@ -33,3 +33,6 @@ where = ["src"]
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 python_files = ["test_*.py"]
+filterwarnings = [
+    "ignore:The 'generic' unit for NumPy timedelta is deprecated:DeprecationWarning:pandas.core.resample",
+]
