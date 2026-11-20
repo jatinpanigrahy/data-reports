@@ -12,6 +12,7 @@ from reportgen.config import (
     ReportGenError,
     SchemaValidationError,
 )
+from reportgen.pipeline import generate_report
 
 __version__ = "0.1.0"
 
@@ -24,4 +25,5 @@ __all__ = [
     "ReportConfig",
     "ReportGenError",
     "SchemaValidationError",
+    "generate_report",
 ]

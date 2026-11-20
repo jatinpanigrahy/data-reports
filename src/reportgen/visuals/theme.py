@@ -7,6 +7,7 @@ gridlines, accessible categorical colors, and legible sans-serif typography.
 
 from __future__ import annotations
 
+import logging
 import os
 from contextlib import contextmanager
 from typing import Generator
@@ -15,6 +16,9 @@ from typing import Generator
 # On headless CI runners or containerized environments without a home directory, Matplotlib
 # requires a writable configuration path to initialize font tables and glyph caches.
 os.environ.setdefault("MPLCONFIGDIR", "/tmp/matplotlib")
+
+# Suppress non-critical font substitution warnings from polluting console streams
+logging.getLogger("matplotlib.font_manager").setLevel(logging.ERROR)
 
 import matplotlib
 matplotlib.use("Agg")
