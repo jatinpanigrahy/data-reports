@@ -12,7 +12,7 @@ Requires Python 3.10 or later.
 
 ```bash
 # Clone the repository
-git clone https://github.com/example/data-reports.git
+git clone https://github.com/jatinpanigrahy/data-reports.git
 cd data-reports
 
 # Install in editable mode
